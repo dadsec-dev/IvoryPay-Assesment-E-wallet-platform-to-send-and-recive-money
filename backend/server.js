@@ -332,7 +332,7 @@ app.post("/sendTokens", async (req, res) => {
       }
 
       // Check if the sender is disabled
-      if (senderResult.rows[0].is_active != 'true') {
+      if (senderResult.rows[0].is_active === 'false') {
           return res.status(403).send("User is disabled and cannot send tokens.");
       }
 

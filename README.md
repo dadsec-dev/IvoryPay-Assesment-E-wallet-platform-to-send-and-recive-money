@@ -25,22 +25,22 @@ A robust fullstack web application that enabes users to send and receive Money t
 - **Others**: Axios for HTTP requests.
 
 ## Screenshots
-*Please replace the placeholder links with your actual screenshot URLs.*
+
 
 1. **Admin Dashboard**
-   ![Admin Dashboard](URL_FOR_SCREENSHOT_HERE)
+   ![Admin Dashboard](./images/adminDashBoard.png)
 
 2. **User Invitation**
-   ![User Invitation](URL_FOR_SCREENSHOT_HERE)
+   ![User Invitation](./images/invite.png)
 
-3. **User Listing**
-   ![User Listing](URL_FOR_SCREENSHOT_HERE)
+3. **User DashBoard**
+   ![User DashBoard](./images/userDashBoard.png)
 
-4. **Toggle User Status**
-   ![Toggle User Status](URL_FOR_SCREENSHOT_HERE)
+4. **User registration**
+   ![User Registration](./images/register.png)
 
 ## Video Walkthrough
-[Click here to view the video walkthrough](URL_FOR_VIDEO_HERE)
+[Click here to view the video walkthrough](https://youtu.be/DVlMvT3Nxf4)
 
 
 
